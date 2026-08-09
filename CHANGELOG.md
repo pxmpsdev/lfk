@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.16.2](https://github.com/janosmiko/lfk/compare/v0.16.1...v0.16.2) (2026-08-09)
+
+
+### Features
+
+* name the person on every lfk write ([#586](https://github.com/janosmiko/lfk/issues/586)) ([5230859](https://github.com/janosmiko/lfk/commit/5230859decf190c67a405e2d375af1b85a1a37a6))
+* show field-manager blame in the YAML viewer ([#584](https://github.com/janosmiko/lfk/issues/584)) ([8fffe94](https://github.com/janosmiko/lfk/commit/8fffe9499b11fe5cace68937c20691af1d6cc388))
+* show the cluster schema description of the field under the cursor ([#588](https://github.com/janosmiko/lfk/issues/588)) ([b0fbbbf](https://github.com/janosmiko/lfk/commit/b0fbbbf0353553bc6ef8427a79e3951fe3c4be58))
+
 ## [0.16.1](https://github.com/janosmiko/lfk/compare/v0.16.0...v0.16.1) (2026-08-06)
 
 
